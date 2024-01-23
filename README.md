@@ -14,3 +14,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # simple_shortcuts
+
+flutter create --org com.anhquangtech --template=plugin --platforms=android,ios -a kotlin -i swift simple_shortcuts

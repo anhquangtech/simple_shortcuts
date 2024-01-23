@@ -1,11 +1,11 @@
 name: simple_shortcuts
-description: "A new Flutter plugin project."
+description: "A flutter plugin for simple shortcuts."
 version: 0.0.1
-homepage:
+homepage: https://github.com/anhquangtech/simple_shortcuts.git
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: ">=3.2.3 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
